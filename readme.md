@@ -1,6 +1,7 @@
 # Competency Tracker
 
 Competency Tracker is a console-based application designed to manage and track the competencies of employees within an organization. It allows for recording, updating, and reporting on employee competencies and assessment results.
+You can generate dummy data using this repo: https://github.com/FastEddyOne/EmployeeDataGenerator
 
 ## Features
 
